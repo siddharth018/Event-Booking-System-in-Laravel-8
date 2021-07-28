@@ -1,9 +1,4 @@
-## Determine User Online Status in Laravel
-
-    Read More: https://therealprogrammer.com/determine-user-online-status-in-laravel/
 ## About
-
-<img src="https://media0.giphy.com/media/zrzwaJ3pqu1YHlNsxX/giphy.gif" width="100%">
 
 First Step: download in your system.
 
